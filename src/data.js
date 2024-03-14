@@ -1,9 +1,8 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Sample Database",
     subtitle: "MERN Stack",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    description: "A sample Employee database using MERN stack",
     image: "./project-1.gif",
     link: "https://harsha-weather.netlify.app/",
   },
