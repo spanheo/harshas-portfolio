@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "MERN Stack",
     description: "A sample Employee database using MERN stack",
     image: "./project-1.gif",
-    link: "https://harsha-weather.netlify.app/",
+    link: "https://harsha-employee-database.netlify.app/",
   },
   {
     title: "React Travel App",
