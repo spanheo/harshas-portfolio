@@ -13,11 +13,18 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            As a React Developer at ATO, I played a pivotal role in designing,
-            developing, and implementing innovative web applications using
-            React.js. Over the course of two years, I honed my skills in
-            front-end development, delivering high-quality, responsive user
-            interfaces that enhanced the overall user experience.
+            As a self-taught front-end developer, I am passionate about
+            designing, developing, and implementing innovative web applications
+            using React.js. During my tenure at Helpdesk over the past year, I
+            have dedicated myself to refining my skills in front-end
+            development. I have specialized in creating responsive user
+            interfaces that significantly enhance the overall user experience.
+            While my professional background has primarily been in QA and
+            technical support, I am eager to transition into a front-end
+            engineering role. I am confident that my experience and expertise in
+            web development, coupled with my strong drive for innovation, make
+            me well-suited for this transition. I am committed to furthering my
+            growth and contributing effectively to front-end engineering teams.
           </p>
           <div className="flex justify-center">
             <a
@@ -30,7 +37,7 @@ export default function About() {
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
             >
-              See My Past Work
+              See My Work
             </a>
           </div>
         </div>
