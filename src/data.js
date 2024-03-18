@@ -10,7 +10,7 @@ export const projects = [
     title: "React Travel App",
     subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A sample travel website, showcasing my ability to blend my passion for travel with my proficiency in React.js. This project not only highlighted my design skills but also underscored my ability to implement complex features using React's robust framework",
     image: "./project-2.gif",
     link: "https://travel-time-harsha.netlify.app/",
   },
@@ -18,15 +18,15 @@ export const projects = [
     title: "React Weather App",
     subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A Weather App that leverages API data to provide accurate forecasts for the next seven days, enriching my understanding of data integration and visualization",
     image: "./project-3.gif",
     link: "https://harsha-weather.netlify.app/",
   },
   {
     title: "Epic Todo App",
-    subtitle: "React Hooks",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Todo App, which efficiently organizes user-input tasks into categorized lists of completed and pending items",
     image: "./project-4.gif",
     link: "https://harshas-to-do.netlify.app/",
   },
