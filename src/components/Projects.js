@@ -14,14 +14,29 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Over the past two years, I've focused on developing dynamic web
-            applications using React.js. Notably, I led the creation of [Project
-            Name 1], a feature-rich platform for [target audience or industry],
-            and contributed to [Project Name 2], optimizing [specific
-            functionality or user experience]. Skilled in React.js, state
-            management with tools like Redux, and RESTful API integration, I
-            consistently deliver responsive solutions that meet client
-            expectations.
+            Over the past year, my focus has been on developing dynamic web
+            applications using React.js, demonstrating my commitment to
+            mastering this technology. I began by building a fundamental Todo
+            App, which efficiently organizes user-input tasks into categorized
+            lists of completed and pending items. Progressing from there, I
+            expanded my repertoire by developing a Weather App that leverages
+            API data to provide accurate forecasts for the next seven days,
+            enriching my understanding of data integration and visualization.
+            Motivated by a project I encountered on GitHub, I embarked on the
+            creation of a sample travel website, showcasing my ability to blend
+            my passion for travel with my proficiency in React.js. This project
+            not only highlighted my design skills but also underscored my
+            ability to implement complex features using React's robust
+            framework. Continuing my journey, I undertook the development of a
+            sample employee database (CRUD) application, where React served as
+            the presentation layer. Leveraging Node.js and Express.js as the
+            middleware, along with MongoDB as the database, I orchestrated a
+            seamless flow of data, reinforcing my proficiency in full-stack
+            development. Proficient in React.js, I excel in state management,
+            employing tools such as Redux to ensure smooth application flow.
+            Additionally, my experience in integrating RESTful APIs further
+            enriches my skill set, enabling me to consistently deliver
+            responsive solutions that exceed user expectations
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
