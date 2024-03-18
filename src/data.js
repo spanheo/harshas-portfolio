@@ -35,25 +35,23 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "I first met Harsha when he joined ATO service desk 2 years ago as a Junior Helpdesk Analyst. As his direct supervisor and the Team Leader of the Helpdesk, I worked proactively with Harsha for a large number of support campaigns over the course of his employment with the company. He reported to me directly when he fulfilled his role diligently as Helpdesk support Analyst and coordinator, as well as a mentor for our interns when he became a Senior.",
+    name: "Jesse Coad",
+    company: "Probe Group - ATO IT Helpdesk",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "I had the pleasure of working with Harsha on QA team at V/Line I led while he was QA Engineer assigned to testing our entire Web stack (desktop web application, mobile apps). Harsha has proven time and again his analytical skills from both a Quality and Business perspective are sharp and effective. He consistently produces appropriate and accurate documentation at all levels of quality spectrum. He has the dedication of duty as QA to fully disclose known issues and shortcomings to project leadership so they can make best business decisions, even when the news is not good. Harsha has gone above and beyond in her role as a Test Engineer to build team skills and camaraderie amongst her QA peers. His dedication in quality, process, automation, and code reviews will be missed. I wish Harsha both personal and professional success in all his future endeavours.",
+    name: "Nita Kannan",
+    company: "V/Line",
   },
 ];
 
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
+  "HTML and CSS",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "MongoDB",
+  "Material UI, Tailwind",
 ];
